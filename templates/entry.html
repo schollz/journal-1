@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>{{ entry.title }}| Kenneth Reitz's Journal</title>
+    <link rel="stylesheet" href="/static/tufte.css"/>
+    <link rel="stylesheet" href="/static/latex.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <article>
+      <section>
+        {{ entry.html|safe }}
+      </section>
+
+      <section>
+        <h2 id="fundamentals">Thoughts & Musings</h2>
+        <h3 id="fundamentals--sections-and-headers">A collection of hand-written essays by Kenneth Reitz.</h3>
+        <ul>
+        {% for entry in entries %}
+          <li><a href="/entry/{{ entry.slug }}">{{ entry.title }}</a>.</li>
+        {% endfor %}
+        </ul>
+      </section>
+
+    </article>
+  </body>
+</html>
