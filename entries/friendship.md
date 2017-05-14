@@ -7,8 +7,8 @@ However, he is quite young, and as such, does a number of things that I consider
 
 I don't think I'm better than him, by any means. I just think I'm better at being a people than he is.
 
-Kind of fucked up, right?
+Kind of fucked up, right? I disregard him quite a bit because of this. 
 
-I'm not so sure - he is a good friend, or rather, I consider him to be a friend, though perhaps I shouldn't.
+But, I'm not so sure - he is a good friend, or rather, I consider him to be a friend, though perhaps I shouldn't.
 
 I (very rarely) prefer to keep some people on short leashes, I suppose.
